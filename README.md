@@ -20,3 +20,5 @@ Download the datasets and unzip them into `data` folder
 ```shell
  cd CGRNet/
  python3 train.py
+ 
+ python3 test.py
