@@ -3,7 +3,7 @@
 
 ### 1.1. 🔥NEWS🔥 :
 - [2021/10/30]:fire: Release the inference code!
-- [2021/10/29] Create repository.
+- [2021/10/28] Create repository.
 
 
 ## Prerequisites
