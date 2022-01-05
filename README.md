@@ -2,6 +2,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ### 1.1. 🔥NEWS🔥 :
+- [2022/1/5]:fire: 	Submitted to BSPC
 - [2021/10/30]:fire: Release the inference code!
 - [2021/10/28] Create repository.
 
