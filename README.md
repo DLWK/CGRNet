@@ -33,7 +33,7 @@ Download the datasets and unzip them into `data` folder
  
 ```
 
-## Demon
+## Demo
 ```shell
 from  CGRmoes.CGR import  CGRNet
 if __name__ == '__main__':
