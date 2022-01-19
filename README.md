@@ -35,15 +35,12 @@ Download the datasets and unzip them into `data` folder
 
 ## Demo
 ```shell
-from  CGRmoes.CGR import  CGRNet
+from  CGRmodes.CGR import  CGRNet
 if __name__ == '__main__':
     ras =CGRNet(n_channels=3, n_classes=1).cuda()
     input_tensor = torch.randn(4, 3, 352, 352).cuda()
-
     out,out1 = ras(input_tensor)
-    print(out.shape)
-   
- 
+    print(out.shape) 
 ```
 # Tips
 :fire:If you have any questions about our work, please do not hesitate to contact us by emails.
