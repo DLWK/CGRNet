@@ -25,6 +25,7 @@ cd CGRNet/
 ## Download dataset
 Download the datasets and unzip them into `data` folder
 - [COVID-19](https://medicalsegmentation.com/covid19/)
+- Download dataset from following [URL](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
 ## Training & Evaluation
 ```shell
  cd CGRNet/
@@ -43,6 +44,27 @@ if __name__ == '__main__':
     out,out1 = ras(input_tensor)
     print(out.shape) 
 ```
+### 2.1 Overview framework
+<p align="center">
+    <img src="./fig/1.png"/> <br />
+    <em> 
+    </em>
+</p>
+
+### 2.2 Visualization Results
+<p align="center">
+    <img src="./fig/2.png"/> <br />
+    <em> 
+    </em>
+</p>
+
+<p align="center">
+    <img src="./fig/3.png"/> <br />
+    <em> 
+    </em>
+</p>
+
+
 # Tips
 :fire:If you have any questions about our work, please do not hesitate to contact us by emails.
 **[⬆ back to top](#0-preface)**
