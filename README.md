@@ -26,6 +26,7 @@ cd CGRNet/
 Download the datasets and unzip them into `data` folder
 - [COVID-19](https://medicalsegmentation.com/covid19/)
 - Download dataset from following [URL](https://drive.google.com/file/d/17Cs2JhKOKwt4usiAYJVJMnXfyZWySn3s/view?usp=sharing)
+- You can use our data/dataloader2.py to load the datasets.
 ## Training & Evaluation
 ```shell
  cd CGRNet/
