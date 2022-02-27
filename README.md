@@ -14,6 +14,7 @@
 ## 0. Preface
 - [2022/01/5]:**Submitted to the journal of "BSPC " （Under Review）**
 - [2022/02/2]:**Submitted to the journal of "BSPC " 🔥（Minor Revision）**
+- [2022/02/27]:**Submitted to the journal of "BSPC " 🔥（Accept）**
 
 
 ### 1.1. 🔥NEWS🔥 :
