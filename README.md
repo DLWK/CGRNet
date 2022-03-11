@@ -78,6 +78,24 @@ if __name__ == '__main__':
 </p>
 
 
+## Citation
+- If you find this work is helpful, please cite our paper
+```
+@article{wang2022cgrnet,
+  title={CGRNet: Contour-guided graph reasoning network for ambiguous biomedical image segmentation},
+  author={Wang, Kun and Zhang, Xiaohong and Lu, Yuting and Zhang, Xiangbo and Zhang, Wei},
+  journal={Biomedical Signal Processing and Control},
+  volume={75},
+  pages={103621},
+  year={2022},
+  publisher={Elsevier}
+}
+}
+```
+
+
+
+
 # Tips
 :fire:If you have any questions about our work, please do not hesitate to contact us by emails.
 **[⬆ back to top](#0-preface)**
